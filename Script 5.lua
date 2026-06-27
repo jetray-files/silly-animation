@@ -1,8 +1,5 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/jetray-files/some-reanimate-for-silly-animation-/refs/heads/main/reanimate"))()
-task.wait(9)
-local TextChatService = game:GetService("TextChatService")
-TextChatService.TextChannels.RBXGeneral:SendAsync("-net")
-task.wait(1)
+task.wait(7)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Gazer-Ha/Gaze-stuff/refs/heads/main/Fe%20Better%3F%20Movement"))()
 
 local PRIVATE_MODEL_ID = 91392243198405  -- CHANGE THIS TO YOUR PRIVATE/Public MODEL ID
