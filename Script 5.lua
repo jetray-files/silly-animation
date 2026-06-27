@@ -1,5 +1,6 @@
 loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Green-Baseplate-Reanimate-204629"))()
 task.wait(11)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Gazer-Ha/Gaze-stuff/refs/heads/main/Fe%20Better%3F%20Movement"))()
 
 local PRIVATE_MODEL_ID = 91392243198405  -- CHANGE THIS TO YOUR PRIVATE/Public MODEL ID
 
