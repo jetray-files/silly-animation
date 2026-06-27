@@ -1,7 +1,7 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/jetray-files/some-reanimate-for-silly-animation-/refs/heads/main/reanimate"))()
 task.wait(9)
 local TextChatService = game:GetService("TextChatService")
-TextChatService.TextChannels.RBXGeneral:SendAsync("Made by Example")
+TextChatService.TextChannels.RBXGeneral:SendAsync("-net")
 task.wait(1)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Gazer-Ha/Gaze-stuff/refs/heads/main/Fe%20Better%3F%20Movement"))()
 
