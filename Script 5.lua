@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/jetray-files/some-reanimate-for-silly-animation-/refs/heads/main/reanimate"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/StrokeThePea/GelatekReanimate/refs/heads/main/Main.lua"))()
 task.wait(7)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Gazer-Ha/Gaze-stuff/refs/heads/main/Fe%20Better%3F%20Movement"))()
 
